@@ -6,7 +6,7 @@ python 3.8<br>
 js2py<br>
 
 ### success rate
-63%
+71%
 
 ### workflow
 1. call first challenge url and get javascript code
