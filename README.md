@@ -15,3 +15,6 @@ js2py<br>
 4. get answers and cookies
 5. post to real url with fetched answers and cookies
 6. get real contents of site url
+
+### contact me via discord
+sword#7693
