@@ -10,7 +10,7 @@ js2py<br>
 
 ### workflow
 1. call first challenge url and get javascript code
-2. parse and run first challenge code, get **_cf_chl_ctx**
+2. run first challenge code, get **_cf_chl_ctx**
 3. send encrypted context data and fetch second challenge code
 4. get answers and cookies
 5. post to real url with fetched answers and cookies
